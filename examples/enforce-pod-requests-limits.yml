@@ -35,4 +35,4 @@ spec:
                 memory: "?*"
                 cpu: "?*"
               limits:
-                memory: "?*"
+                memory: 500Mi
